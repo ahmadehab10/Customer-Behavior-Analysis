@@ -1,4 +1,5 @@
 # Customer-Behavior-Analysis
+<p>In this case study i was tasked to explore and uncover trends that belonged to different customers in Danny's restaurant by answering questions that were predetermined. </p>
 <h1>Case Study Link </h1>
 <p>https://8weeksqlchallenge.com/case-study-1/</p>
 <h1>Background</h1>
